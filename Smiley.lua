@@ -23,3 +23,7 @@ for i=1,100 do
 	end
 	wait()
 end
+
+wait(1)
+
+gui:Destroy()
